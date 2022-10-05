@@ -76,6 +76,7 @@ addCommentForm.addEventListener('submit', async (e) => {
     }
 
     //    - reset the form
+    return;
 });
 
 /* Display Functions */
